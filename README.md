@@ -1,9 +1,8 @@
-## Hi, I’m Sheryl 👋 
+## Hi, I’m focuseses 👋 
 - 📚 I am currently a CS student in NUS. 
 - 👀 I’m interested in software development and learning algorithms.
 - 🌱 I’m currently learning how to write better code, solve problems efficiently and how to develop web applications. 
 - 💞️ I’m looking to collaborate on interesting development projects to enhance my skills. 
-- 📫 How to reach me: sltsheryl@gmail.com
 
 ### ✨ Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=focuseses&show_icons=true&theme=tokyonight)
